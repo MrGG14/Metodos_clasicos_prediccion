@@ -1,4 +1,3 @@
-# Regresion_lineal_estadistica
 
 ## Ejercicio 1.
 
@@ -39,3 +38,16 @@ e) Analizar el modelo de regresión lineal tras la eliminación de valores influ
 Aplicar la técnica de análisis componentes principales al conjunto de variables del ejercicio 1 y 
 volver a construir un modelo de regresión sobre las componentes principales, comparando su 
 calidad con el obtenido en el ejercicio 1.
+
+## Ejercicio 3.
+
+En el fichero IVA.xlsx hay disponible una serie temporal con datos mensuales de los impuestos 
+recaudados por el Estado en concepto de IVA desde enero de 1988 hasta noviembre de 2010. 
+Se solicita:
+a) Analizar la estacionariedad de la serie y transformarla en caso de fuese necesario para 
+alcanzar la estacionariedad y tratar la estacionalidad.
+b) Analizar a partir del PCF y PACF los modelos ARIMA generalizados que mejor se ajustan y 
+analizar sus residuos.
+c) Identificar el modelo matemático que mejor se ajusta a la serie, mostrar gráficamente el 
+ajuste del modelo con los datos y analizar sus residuos.
+d) Predecir la recaudación para los próximos 5 meses
