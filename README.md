@@ -1,11 +1,11 @@
-
-## Ejercicio 1.
+# Regresion Lineal: Prediccion nivel de glucosa
 
 El Instituto Nacional de la Diabetes y las Enfermedades Digestivas y Renales (EE.UU.) realizó un 
 estudio sobre 768 mujeres indias Pima adultas que vivían cerca de Phoenix. Se registraron las 
 siguientes variables: 
 
 • número de embarazos
+
 • concentración de glucosa en plasma a las 2 horas en una prueba de tolerancia a la glucosa 
 oral
 
@@ -47,13 +47,13 @@ d) Identificar el mejor modelo de regresión lineal y analizarlo.
 e) Analizar el modelo de regresión lineal tras la eliminación de valores influentes y atípicos.
 
 
-## Ejercicio 2.
+# Aplicar ACP
 
-Aplicar la técnica de análisis componentes principales al conjunto de variables del ejercicio 1 y 
+Aplicar la técnica de análisis componentes principales al conjunto de variables anterior y 
 volver a construir un modelo de regresión sobre las componentes principales, comparando su 
 calidad con el obtenido en el ejercicio 1.
 
-## Ejercicio 3.
+# PREDICCION RECAUDACION IMPUESTOS MEDIANTE ARIMA 
 
 En el fichero IVA.xlsx hay disponible una serie temporal con datos mensuales de los impuestos 
 recaudados por el Estado en concepto de IVA desde enero de 1988 hasta noviembre de 2010. 
